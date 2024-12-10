@@ -1,0 +1,2125 @@
+{
+    "student_id": 1105039,
+    "institution_id": "INTEC",
+    "periods": [
+        {
+            "period": "2021-02",
+            "courses": [
+                {
+                    "course_id": "AHO102",
+                    "credits": 0,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 46
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 26
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 28
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CBA101",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 42
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 20
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CBM102",
+                    "credits": 5,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C5",
+                            "weight": 31
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 43
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 26
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CSH114",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 33
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 21
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 47
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS207",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 21
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 35
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 44
+                        }
+                    ]
+                },
+                {
+                    "course_id": "NEG101",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 29
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 47
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 24
+                        }
+                    ]
+                },
+                {
+                    "course_id": "SHI107",
+                    "credits": 0,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 39
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 26
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 35
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 7,
+            "total_credits": 13
+        },
+        {
+            "period": "2021-03",
+            "courses": [
+                {
+                    "course_id": "AHC49",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C5",
+                            "weight": 42
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 26
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 32
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CBM201",
+                    "credits": 5,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 30
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 26
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 45
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CSH112",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 29
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 37
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 33
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CSS102",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 37
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 25
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS323",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C5",
+                            "weight": 24
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 40
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 36
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS323L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C5",
+                            "weight": 34
+                        },
+                        {
+                        
+                                "comp_id": "C4",
+                            "weight": 34
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 32
+                        }
+                    ]
+                },
+                {
+                    "course_id": "SHI108",
+                    "credits": 0,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C5",
+                            "weight": 32
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 42
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 26
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 7,
+            "total_credits": 18
+        },
+        {
+            "period": "2021-04",
+            "courses": [
+                {
+                    "course_id": "AHC110",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 39
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 26
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 35
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CBF210",
+                    "credits": 4,
+                    "grade": "B+",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 19
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 40
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 41
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CBF210L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 35
+                        },
+                        {
+                        
+                                "comp_id": "C5",
+                            "weight": 31
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 33
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS202",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 36
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 26
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS202L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C4",
+                            "weight": 37
+                        },
+                        {
+                        
+                                "comp_id": "C2",
+                            "weight": 23
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 40
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ING228",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 30
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 32
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 38
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 6,
+            "total_credits": 15
+        },
+        {
+            "period": "2022-01",
+            "courses": [
+                {
+                    "course_id": "AHQ101",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 33
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 45
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 21
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CBF211",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 39
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 35
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 26
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CBF211L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C1",
+                            "weight": 21
+                        },
+                        {
+                        
+                                "comp_id": "C4",
+                            "weight": 36
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 43
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CBM202",
+                    "credits": 5,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C6",
+                            "weight": 42
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 29
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 30
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CSH113",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 29
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 45
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 26
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS341",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 23
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 46
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 31
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS341L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C4",
+                            "weight": 47
+                        },
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 34
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 20
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 7,
+            "total_credits": 20
+        },
+        {
+            "period": "2022-02",
+            "courses": [
+                {
+                    "course_id": "IDS311",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 22
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 44
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 34
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS324",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C5",
+                            "weight": 33
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 30
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 37
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS324L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C5",
+                            "weight": 45
+                        },
+                        {
+                        
+                                "comp_id": "C4",
+                            "weight": 20
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 35
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS342",
+                    "credits": 0,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C5",
+                            "weight": 45
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 22
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 34
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS343",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 44
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 25
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 31
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS343L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C1",
+                            "weight": 37
+                        },
+                        {
+                        
+                                "comp_id": "C4",
+                            "weight": 21
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 43
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 6,
+            "total_credits": 13
+        },
+        {
+            "period": "2022-03",
+            "courses": [
+                {
+                    "course_id": "CBM208",
+                    "credits": 5,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 29
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 30
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 42
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CSH105",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 39
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 23
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS329",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 21
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 40
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 39
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS329L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C2",
+                            "weight": 23
+                        },
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 42
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 35
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IEC41",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 28
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 36
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 36
+                        }
+                    ]
+                },
+                {
+                    "course_id": "INS377",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 31
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 27
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 42
+                        }
+                    ]
+                },
+                {
+                    "course_id": "INS377L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C2",
+                            "weight": 38
+                        },
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 37
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 25
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 7,
+            "total_credits": 19
+        },
+        {
+            "period": "2022-04",
+            "courses": [
+                {
+                    "course_id": "CBM203",
+                    "credits": 5,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 23
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 37
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 41
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS208",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 20
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 42
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS345",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 32
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 30
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS345L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C2",
+                            "weight": 40
+                        },
+                        {
+                        
+                                "comp_id": "C2",
+                            "weight": 34
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 27
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS346",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 27
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 35
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 39
+                        }
+                    ]
+                },
+                {
+                    "course_id": "INS380",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C5",
+                            "weight": 40
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 19
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 41
+                        }
+                    ]
+                },
+                {
+                    "course_id": "INS380L",
+                    "credits": 1,
+                    "grade": "B+",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C5",
+                            "weight": 23
+                        },
+                        {
+                        
+                                "comp_id": "C2",
+                            "weight": 39
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 38
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 7,
+            "total_credits": 21
+        },
+        {
+            "period": "2023-01",
+            "courses": [
+                {
+                    "course_id": "ICS202",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 27
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 37
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 36
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ICS202L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C1",
+                            "weight": 39
+                        },
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 40
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 20
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS325",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 43
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 36
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 21
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS325L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C4",
+                            "weight": 27
+                        },
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 34
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 40
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS335",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 37
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 36
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 27
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS347",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 26
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 34
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 40
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS347L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C1",
+                            "weight": 42
+                        },
+                        {
+                        
+                                "comp_id": "C1",
+                            "weight": 25
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 33
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ING214",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 35
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 39
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 26
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 8,
+            "total_credits": 22
+        },
+        {
+            "period": "2023-02",
+            "courses": [
+                {
+                    "course_id": "CON213",
+                    "credits": 2,
+                    "grade": "B+",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 26
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 22
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 52
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS303",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C6",
+                            "weight": 33
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 40
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 26
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS348",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 39
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 36
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 25
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS348L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 40
+                        },
+                        {
+                        
+                                "comp_id": "C1",
+                            "weight": 21
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 39
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ING230",
+                    "credits": 4,
+                    "grade": "R",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 30
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 41
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 29
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ING231",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 36
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 33
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 31
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 6,
+            "total_credits": 15
+        },
+        {
+            "period": "2023-03",
+            "courses": [
+                {
+                    "course_id": "ASM106",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 22
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 40
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 38
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CBM305",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 25
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 46
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 30
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS309",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C5",
+                            "weight": 49
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 27
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 23
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS349",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 31
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 41
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 29
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS349L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C2",
+                            "weight": 33
+                        },
+                        {
+                        
+                                "comp_id": "C4",
+                            "weight": 29
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 39
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IEC208",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 24
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 42
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 34
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IEC208L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 32
+                        },
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 40
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 28
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ING230",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C6",
+                            "weight": 35
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 42
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 23
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 8,
+            "total_credits": 22
+        },
+        {
+            "period": "2023-04",
+            "courses": [
+                {
+                    "course_id": "IDS326",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 32
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 35
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 33
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS326L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C2",
+                            "weight": 48
+                        },
+                        {
+                        
+                                "comp_id": "C6",
+                            "weight": 27
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 25
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ING235",
+                    "credits": 4,
+                    "grade": "B",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 37
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 41
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 22
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ING235L",
+                    "credits": 1,
+                    "grade": "B+",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C4",
+                            "weight": 27
+                        },
+                        {
+                        
+                                "comp_id": "C2",
+                            "weight": 44
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 29
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ING237",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C5",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 22
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 41
+                        }
+                    ]
+                },
+                {
+                    "course_id": "INS371",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C6",
+                            "weight": 33
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 23
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 44
+                        }
+                    ]
+                },
+                {
+                    "course_id": "INS371L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C6",
+                            "weight": 24
+                        },
+                        {
+                        
+                                "comp_id": "C4",
+                            "weight": 41
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 34
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 7,
+            "total_credits": 18
+        },
+        {
+            "period": "2024-01",
+            "courses": [
+                {
+                    "course_id": "ECO322",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 42
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 19
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS328",
+                    "credits": 4,
+                    "grade": "B",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 51
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 26
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 24
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS328L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 38
+                        },
+                        {
+                        
+                                "comp_id": "C1",
+                            "weight": 26
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 36
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS330",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 33
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 30
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 37
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS330L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C1",
+                            "weight": 39
+                        },
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 29
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 31
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS350",
+                    "credits": 0,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 40
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 23
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS351",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C6",
+                            "weight": 36
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 39
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 25
+                        }
+                    ]
+                },
+                {
+                    "course_id": "INS373",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 32
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 30
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 38
+                        }
+                    ]
+                },
+                {
+                    "course_id": "INS373L",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                        
+                                "comp_id": "C3",
+                            "weight": 21
+                        },
+                        {
+                        
+                                "comp_id": "C2",
+                            "weight": 39
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 40
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 9,
+            "total_credits": 20
+        },
+        {
+            "period": "2024-02",
+            "courses": [
+                {
+                    "course_id": "ADM247",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 42
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 23
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 35
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ADM315",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 25
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 31
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 44
+                        }
+                    ]
+                },
+                {
+                    "course_id": "CBA203",
+                    "credits": 2,
+                    "grade": "B",
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 27
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 41
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 32
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ICS320",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 22
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 39
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 39
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS339",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 33
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 25
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 42
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS352",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 35
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 27
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS353",
+                    "credits": 2,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 34
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 43
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 23
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS354",
+                    "credits": 3,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 28
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 42
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 30
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 8,
+            "total_credits": 22
+        },
+        {
+            "period": "2024-03",
+            "courses": [
+                {
+                    "course_id": "IDS322",
+                    "credits": 4,
+                    "grade": "B+",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 32
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 40
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 28
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS355",
+                    "credits": 3,
+                    "grade": "B+",
+                    "competences": [
+                        {
+                            "comp_id": "C6",
+                            "weight": 24
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 28
+                        },
+                        {
+                            "comp_id": "C5",
+                            "weight": 48
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS356",
+                    "credits": 1,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 40
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 37
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 23
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS3X5",
+                    "credits": 0,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C4",
+                            "weight": 33
+                        },
+                        {
+                            "comp_id": "C6",
+                            "weight": 39
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 28
+                        }
+                    ]
+                },
+                {
+                    "course_id": "INS348",
+                    "credits": 0,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C1",
+                            "weight": 45
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 26
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 29
+                        }
+                    ]
+                },
+                {
+                    "course_id": "INS348",
+                    "credits": 4,
+                    "grade": "A",
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 26
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 23
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 52
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 6,
+            "total_credits": 18
+        },
+        {
+            "period": "2024-04",
+            "courses": [
+                {
+                    "course_id": "IDS334",
+                    "credits": 4,
+                    "grade": null,
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 32
+                        },
+                        {
+                            "comp_id": "C2",
+                            "weight": 29
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 38
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS344",
+                    "credits": 3,
+                    "grade": null,
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 25
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ING232",
+                    "credits": 1,
+                    "grade": null,
+                    "competences": [
+                        {
+                            "comp_id": "C2",
+                            "weight": 27
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 47
+                        },
+                        {
+                            "comp_id": "C1",
+                            "weight": 26
+                        }
+                    ]
+                },
+                {
+                    "course_id": "ING233",
+                    "credits": 4,
+                    "grade": null,
+                    "competences": [
+                        {
+                            "comp_id": "C5",
+                            "weight": 38
+                        },
+                        {
+                            "comp_id": "C4",
+                            "weight": 32
+                        },
+                        {
+                            "comp_id": "C3",
+                            "weight": 30
+                        }
+                    ]
+                },
+                {
+                    "course_id": "IDS333L",
+                    "credits": 4,
+                    "grade": null,
+                    "competences": [
+                        {
+                            "comp_id": "C3",
+                            "weight": 100
+                        }
+                    ]
+                }
+            ],
+            "cant_courses": 5,
+            "total_credits": 16
+        }
+    ]
+}
